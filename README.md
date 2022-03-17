@@ -1,7 +1,7 @@
 ### HermeneX - Projeto LabeX
 
 ## Descrição
-Projeto criado de uma plataforma para vender viagens e se inscrever em viagens.
+Plataforma para vender viagens e se inscrever em viagens, feito como projeto no curso Labenu.
 
 ## Link Surge
 https://hermenex.surge.sh/
